@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mavenproxy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mavenproxy_jar</output-path>
+    <root id="archive" name="mavenproxy.jar">
+      <element id="module-output" name="mavenproxy" />
+    </root>
+  </artifact>
+</component>
